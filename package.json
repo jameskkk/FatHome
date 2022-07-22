@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "home-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://jameskkk.github.io/FatHome",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
