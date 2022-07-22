@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FatHome/static/css/main.7a7d29af.css",
-    "main.js": "/FatHome/static/js/main.23ec12a3.js",
+    "main.js": "/FatHome/static/js/main.f01bf95e.js",
     "index.html": "/FatHome/index.html",
     "main.7a7d29af.css.map": "/FatHome/static/css/main.7a7d29af.css.map",
-    "main.23ec12a3.js.map": "/FatHome/static/js/main.23ec12a3.js.map"
+    "main.f01bf95e.js.map": "/FatHome/static/js/main.f01bf95e.js.map"
   },
   "entrypoints": [
     "static/css/main.7a7d29af.css",
-    "static/js/main.23ec12a3.js"
+    "static/js/main.f01bf95e.js"
   ]
 }
