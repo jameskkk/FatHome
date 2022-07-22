@@ -11,7 +11,7 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-Fulbright slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm 胖胖肉包</h1>
@@ -26,7 +26,7 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-Fulbright slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I love eating<br /> EVERYTHINGS !!</h1>
@@ -41,7 +41,7 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-Fulbright slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I often <br/>Write ... </h1>
